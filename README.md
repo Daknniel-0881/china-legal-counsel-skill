@@ -45,7 +45,7 @@ china-legal-counsel/
 把仓库放到 Codex skills 目录：
 
 ```bash
-git clone https://github.com/Daknniel-0881/china-legal-counsel-skill.git ~/.codex/skills/china-legal-counsel
+git clone https://github.com/Daknniel-0881/qulv-china-legal-counsel-skill.git ~/.codex/skills/china-legal-counsel
 ```
 
 然后在 Codex 中直接提出法律/合同/合规类任务，或显式调用：
@@ -84,3 +84,11 @@ python3 scripts/verify_citations.py legal_output.md
 ## License
 
 MIT
+
+## 关于本仓库与曲率企业 AI 服务
+
+本仓库开源分享 **qulv-china-legal-counsel-skill**：中国大陆企业法务顾问 Skill，辅助合同审查、合同起草、法律风险分析和企业合规检索。曲率提供企业 AI 培训、企业 AI 转型咨询、落地工具搭建、AI 工具定制及 Skill 定制、企业 AI 转型全程陪跑，帮助团队把 AI 从演示样例落到真实业务流程中。
+
+感兴趣可扫码添加微信：
+
+![曲率企业 AI 服务海报](assets/qulv/qulv-ai-business-poster-readme.png)
